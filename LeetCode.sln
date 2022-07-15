@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1379. Find a Corresponding 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "234. Palindrome Linked List", "234. Palindrome Linked List\234. Palindrome Linked List.csproj", "{7B636015-0110-4233-8561-4A1086F6113F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "206. Reverse Linked List", "206. Reverse Linked List\206. Reverse Linked List.csproj", "{07CE324D-4649-487D-A080-ABC19655F4C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{7B636015-0110-4233-8561-4A1086F6113F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B636015-0110-4233-8561-4A1086F6113F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B636015-0110-4233-8561-4A1086F6113F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07CE324D-4649-487D-A080-ABC19655F4C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07CE324D-4649-487D-A080-ABC19655F4C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07CE324D-4649-487D-A080-ABC19655F4C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07CE324D-4649-487D-A080-ABC19655F4C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
