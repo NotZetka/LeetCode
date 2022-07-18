@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MyApp // Note: actual namespace depends on the project name.
+namespace _13._Roman_to_Integer // Note: actual namespace depends on the project name.
 {
     internal class Program
     {
@@ -24,9 +24,9 @@ namespace MyApp // Note: actual namespace depends on the project name.
         {
             int result = 0;
             int maxValue = 1;
-            for (int i = s.Length-1; i>=0 ; i--)
+            for (int i = s.Length - 1; i >= 0; i--)
             {
-                if(maxValue <= dict[s[i]])
+                if (maxValue <= dict[s[i]])
                 {
                     if (maxValue < dict[s[i]])
                     {

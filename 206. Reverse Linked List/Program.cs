@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MyApp
+namespace _206._Reverse_Linked_List
 {
     public class ListNode
     {
@@ -19,7 +19,7 @@ namespace MyApp
         {
             ListNode left = null;
             ListNode temp;
-            while(head != null)
+            while (head != null)
             {
                 temp = head.next;
                 head.next = left;

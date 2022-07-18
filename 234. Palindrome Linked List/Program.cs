@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MyApp // Note: actual namespace depends on the project name.
+namespace _234._Palindrome_Linked_List // Note: actual namespace depends on the project name.
 {
 
     public class ListNode
@@ -33,7 +33,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
             {
                 ListNode prev = null;
                 ListNode temp;
-                while(listNode != null)
+                while (listNode != null)
                 {
                     temp = listNode.next;
                     listNode.next = prev;
@@ -42,14 +42,14 @@ namespace MyApp // Note: actual namespace depends on the project name.
                 }
                 return prev;
             }
-            while(slow != null)
+            while (slow != null)
             {
-                if(slow.val != fast.val)
+                if (slow.val != fast.val)
                 {
                     return false;
                 }
                 slow = slow.next;
-                fast = fast.next;   
+                fast = fast.next;
             }
             return true;
         }
@@ -62,9 +62,9 @@ namespace MyApp // Note: actual namespace depends on the project name.
             static void Main(string[] args)
             {
                 Solution s = new Solution();
-                ListNode node = new ListNode(1,new(2,new(1)));
-                ListNode node2 = new ListNode(1,new(2,new(2,new(1))));
-                ListNode node3 = new ListNode(1,new(2));
+                ListNode node = new ListNode(1, new(2, new(1)));
+                ListNode node2 = new ListNode(1, new(2, new(2, new(1))));
+                ListNode node3 = new ListNode(1, new(2));
                 //Console.WriteLine(s.IsPalindrome(node));
                 Console.WriteLine(s.IsPalindrome(node2));
                 //Console.WriteLine(s.IsPalindrome(node3));

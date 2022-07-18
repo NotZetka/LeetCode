@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace MyApp // Note: actual namespace depends on the project name.
+namespace _12._Integer_to_Roman // Note: actual namespace depends on the project name.
 {
     internal class Program
     {

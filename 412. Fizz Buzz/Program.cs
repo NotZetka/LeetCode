@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace MyApp 
+namespace _412._Fizz_Buzz
 {
     public class Solution
     {
@@ -14,11 +14,11 @@ namespace MyApp
                 {
                     list.Add("FizzBuzz");
                 }
-                else if(i % 5 == 0)
+                else if (i % 5 == 0)
                 {
                     list.Add("Buzz");
                 }
-                else if(i % 3 == 0)
+                else if (i % 3 == 0)
                 {
                     list.Add("Fizz");
                 }

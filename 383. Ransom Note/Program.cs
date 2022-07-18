@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MyApp 
+namespace _383._Ransom_Note
 {
 
     internal class Program
@@ -20,7 +20,7 @@ namespace MyApp
                     ransomChares[Char]--;
                     lenght--;
                 }
-                if(lenght == 0) { return true; }
+                if (lenght == 0) { return true; }
             }
             return false;
             /*
@@ -43,7 +43,7 @@ namespace MyApp
         }
         static void Main(string[] args)
         {
-            Console.WriteLine(CanConstruct("a","ba"));
+            Console.WriteLine(CanConstruct("a", "ba"));
         }
     }
 }
