@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "876. Middle of the Linked L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1337. The K Weakest Rows in a Matrix", "1337. The K Weakest Rows in a Matrix\1337. The K Weakest Rows in a Matrix.csproj", "{1DB09E77-BC1A-410F-88CA-2D1DF0AA81C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1342. Number of Steps to Reduce a Number to Zero", "1342. Number of Steps to Reduce a Number to Zero\1342. Number of Steps to Reduce a Number to Zero.csproj", "{4BE1F6BD-5011-4C45-9D72-11067A0B7909}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{1DB09E77-BC1A-410F-88CA-2D1DF0AA81C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DB09E77-BC1A-410F-88CA-2D1DF0AA81C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DB09E77-BC1A-410F-88CA-2D1DF0AA81C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BE1F6BD-5011-4C45-9D72-11067A0B7909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BE1F6BD-5011-4C45-9D72-11067A0B7909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BE1F6BD-5011-4C45-9D72-11067A0B7909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BE1F6BD-5011-4C45-9D72-11067A0B7909}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
