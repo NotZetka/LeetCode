@@ -17,13 +17,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "206. Reverse Linked List", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "383. Ransom Note", "383. Ransom Note\383. Ransom Note.csproj", "{B6E99C65-E1B8-4575-9FA9-64D7636FFFEA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "412. Fizz Buzz", "412. Fizz Buzz\412. Fizz Buzz.csproj", "{86890285-AD43-4257-8AA9-BB6EB87C1166}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "412. Fizz Buzz", "412. Fizz Buzz\412. Fizz Buzz.csproj", "{86890285-AD43-4257-8AA9-BB6EB87C1166}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "876. Middle of the Linked List", "876. Middle of the Linked List\876. Middle of the Linked List.csproj", "{F9FA7E29-C937-4EFB-8ACF-AB24E1E16D81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "876. Middle of the Linked List", "876. Middle of the Linked List\876. Middle of the Linked List.csproj", "{F9FA7E29-C937-4EFB-8ACF-AB24E1E16D81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1337. The K Weakest Rows in a Matrix", "1337. The K Weakest Rows in a Matrix\1337. The K Weakest Rows in a Matrix.csproj", "{1DB09E77-BC1A-410F-88CA-2D1DF0AA81C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1337. The K Weakest Rows in a Matrix", "1337. The K Weakest Rows in a Matrix\1337. The K Weakest Rows in a Matrix.csproj", "{1DB09E77-BC1A-410F-88CA-2D1DF0AA81C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1342. Number of Steps to Reduce a Number to Zero", "1342. Number of Steps to Reduce a Number to Zero\1342. Number of Steps to Reduce a Number to Zero.csproj", "{4BE1F6BD-5011-4C45-9D72-11067A0B7909}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1342. Number of Steps to Reduce a Number to Zero", "1342. Number of Steps to Reduce a Number to Zero\1342. Number of Steps to Reduce a Number to Zero.csproj", "{4BE1F6BD-5011-4C45-9D72-11067A0B7909}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1672. Richest Customer Wealth", "1672. Richest Customer Wealth\1672. Richest Customer Wealth.csproj", "{92A8059D-C77A-4A1E-BBEF-9EDE2CA6F260}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{4BE1F6BD-5011-4C45-9D72-11067A0B7909}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BE1F6BD-5011-4C45-9D72-11067A0B7909}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BE1F6BD-5011-4C45-9D72-11067A0B7909}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92A8059D-C77A-4A1E-BBEF-9EDE2CA6F260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92A8059D-C77A-4A1E-BBEF-9EDE2CA6F260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92A8059D-C77A-4A1E-BBEF-9EDE2CA6F260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92A8059D-C77A-4A1E-BBEF-9EDE2CA6F260}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
