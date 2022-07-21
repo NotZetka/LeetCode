@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1480. Running Sum of 1d Arr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "724. Find Pivot Index", "724. Find Pivot Index\724. Find Pivot Index.csproj", "{04228242-9699-4FF8-A224-FEE946946FA8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "792. Number of Matching Subsequences", "792. Number of Matching Subsequences\792. Number of Matching Subsequences.csproj", "{15ECBC52-6498-432C-9BD0-DFA90B7C2FF8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{04228242-9699-4FF8-A224-FEE946946FA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04228242-9699-4FF8-A224-FEE946946FA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04228242-9699-4FF8-A224-FEE946946FA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15ECBC52-6498-432C-9BD0-DFA90B7C2FF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15ECBC52-6498-432C-9BD0-DFA90B7C2FF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15ECBC52-6498-432C-9BD0-DFA90B7C2FF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15ECBC52-6498-432C-9BD0-DFA90B7C2FF8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
