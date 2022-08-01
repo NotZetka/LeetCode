@@ -35,7 +35,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "792. Number of Matching Sub
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "53. Maximum Subarray", "53. Maximum Subarray\53. Maximum Subarray.csproj", "{9D7BC65F-CFF7-4D60-B25B-94C0B43CFAC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "416. Partition Equal Subset Sum", "416. Partition Equal Subset Sum\416. Partition Equal Subset Sum.csproj", "{DCF6566A-B906-44DF-9632-71591DF5F88E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "416. Partition Equal Subset Sum", "416. Partition Equal Subset Sum\416. Partition Equal Subset Sum.csproj", "{DCF6566A-B906-44DF-9632-71591DF5F88E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "51. N-Queens", "51. N-Queens\51. N-Queens.csproj", "{DCCF5295-BC65-4AE9-8C24-9184C5C9114F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{DCF6566A-B906-44DF-9632-71591DF5F88E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCF6566A-B906-44DF-9632-71591DF5F88E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCF6566A-B906-44DF-9632-71591DF5F88E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCCF5295-BC65-4AE9-8C24-9184C5C9114F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCCF5295-BC65-4AE9-8C24-9184C5C9114F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCCF5295-BC65-4AE9-8C24-9184C5C9114F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCCF5295-BC65-4AE9-8C24-9184C5C9114F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
