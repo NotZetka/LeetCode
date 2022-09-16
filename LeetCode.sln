@@ -37,7 +37,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "53. Maximum Subarray", "53.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "416. Partition Equal Subset Sum", "416. Partition Equal Subset Sum\416. Partition Equal Subset Sum.csproj", "{DCF6566A-B906-44DF-9632-71591DF5F88E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "51. N-Queens", "51. N-Queens\51. N-Queens.csproj", "{DCCF5295-BC65-4AE9-8C24-9184C5C9114F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "51. N-Queens", "51. N-Queens\51. N-Queens.csproj", "{DCCF5295-BC65-4AE9-8C24-9184C5C9114F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Add Two Numbers", "2. Add Two Numbers\2. Add Two Numbers.csproj", "{CC6BFC5D-E057-4035-A097-D26682DCE78B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{DCCF5295-BC65-4AE9-8C24-9184C5C9114F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCCF5295-BC65-4AE9-8C24-9184C5C9114F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCCF5295-BC65-4AE9-8C24-9184C5C9114F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC6BFC5D-E057-4035-A097-D26682DCE78B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC6BFC5D-E057-4035-A097-D26682DCE78B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC6BFC5D-E057-4035-A097-D26682DCE78B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC6BFC5D-E057-4035-A097-D26682DCE78B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
