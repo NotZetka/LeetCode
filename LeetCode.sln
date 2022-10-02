@@ -39,7 +39,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "416. Partition Equal Subset
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "51. N-Queens", "51. N-Queens\51. N-Queens.csproj", "{DCCF5295-BC65-4AE9-8C24-9184C5C9114F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Add Two Numbers", "2. Add Two Numbers\2. Add Two Numbers.csproj", "{CC6BFC5D-E057-4035-A097-D26682DCE78B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Add Two Numbers", "2. Add Two Numbers\2. Add Two Numbers.csproj", "{CC6BFC5D-E057-4035-A097-D26682DCE78B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Longest Substring Without Repeating Characters", "3. Longest Substring Without Repeating Characters\3. Longest Substring Without Repeating Characters.csproj", "{9E2EA687-DF83-4392-9E13-88CB11E21390}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{CC6BFC5D-E057-4035-A097-D26682DCE78B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC6BFC5D-E057-4035-A097-D26682DCE78B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC6BFC5D-E057-4035-A097-D26682DCE78B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E2EA687-DF83-4392-9E13-88CB11E21390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E2EA687-DF83-4392-9E13-88CB11E21390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E2EA687-DF83-4392-9E13-88CB11E21390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E2EA687-DF83-4392-9E13-88CB11E21390}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
