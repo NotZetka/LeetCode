@@ -43,11 +43,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Add Two Numbers", "2. Ad
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Longest Substring Without Repeating Characters", "3. Longest Substring Without Repeating Characters\3. Longest Substring Without Repeating Characters.csproj", "{9E2EA687-DF83-4392-9E13-88CB11E21390}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Zigzag Conversion", "6. Zigzag Conversion\6. Zigzag Conversion.csproj", "{A5899A81-94D0-4E5F-AE7C-66EA19183F76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6. Zigzag Conversion", "6. Zigzag Conversion\6. Zigzag Conversion.csproj", "{A5899A81-94D0-4E5F-AE7C-66EA19183F76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Reverse Integer", "7. Reverse Integer\7. Reverse Integer.csproj", "{27F8ABF5-C843-4E08-908C-8ACE5D9A2D76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7. Reverse Integer", "7. Reverse Integer\7. Reverse Integer.csproj", "{27F8ABF5-C843-4E08-908C-8ACE5D9A2D76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. String to Integer (atoi)", "8. String to Integer (atoi)\8. String to Integer (atoi).csproj", "{E4084811-92DE-4D05-B360-C6FF2AB9D5F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8. String to Integer (atoi)", "8. String to Integer (atoi)\8. String to Integer (atoi).csproj", "{E4084811-92DE-4D05-B360-C6FF2AB9D5F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Median of Two Sorted Arrays", "4. Median of Two Sorted Arrays\4. Median of Two Sorted Arrays.csproj", "{9A089F83-34FE-4E68-8DBA-440E2CBB5888}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{E4084811-92DE-4D05-B360-C6FF2AB9D5F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4084811-92DE-4D05-B360-C6FF2AB9D5F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4084811-92DE-4D05-B360-C6FF2AB9D5F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A089F83-34FE-4E68-8DBA-440E2CBB5888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A089F83-34FE-4E68-8DBA-440E2CBB5888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A089F83-34FE-4E68-8DBA-440E2CBB5888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A089F83-34FE-4E68-8DBA-440E2CBB5888}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
