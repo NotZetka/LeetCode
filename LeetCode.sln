@@ -49,7 +49,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7. Reverse Integer", "7. Re
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8. String to Integer (atoi)", "8. String to Integer (atoi)\8. String to Integer (atoi).csproj", "{E4084811-92DE-4D05-B360-C6FF2AB9D5F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Median of Two Sorted Arrays", "4. Median of Two Sorted Arrays\4. Median of Two Sorted Arrays.csproj", "{9A089F83-34FE-4E68-8DBA-440E2CBB5888}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Median of Two Sorted Arrays", "4. Median of Two Sorted Arrays\4. Median of Two Sorted Arrays.csproj", "{9A089F83-34FE-4E68-8DBA-440E2CBB5888}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Regular Expression Matching", "10. Regular Expression Matching\10. Regular Expression Matching.csproj", "{18FC811D-2B90-4195-AA93-F919F6DCC901}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{9A089F83-34FE-4E68-8DBA-440E2CBB5888}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A089F83-34FE-4E68-8DBA-440E2CBB5888}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A089F83-34FE-4E68-8DBA-440E2CBB5888}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18FC811D-2B90-4195-AA93-F919F6DCC901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18FC811D-2B90-4195-AA93-F919F6DCC901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18FC811D-2B90-4195-AA93-F919F6DCC901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18FC811D-2B90-4195-AA93-F919F6DCC901}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

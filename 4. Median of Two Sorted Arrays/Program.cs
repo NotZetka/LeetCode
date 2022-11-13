@@ -66,7 +66,9 @@ namespace _4._Median_of_Two_Sorted_Arrays
                 largeer = nums1;
             }
             bool even = (smaller.Length + largeer.Length) % 2 == 0 ? true : false;
-            int dividerS = (smaller.Length-1) / 2;
+            int start = 0;
+            int end = smaller.Length;
+            int dividerS;
             int dividerL;
             int smallL;
             int smallR;
@@ -75,6 +77,7 @@ namespace _4._Median_of_Two_Sorted_Arrays
 
             do
             {
+                dividerS = (start + end) / 2;
                 dividerL = (smaller.Length + largeer.Length + 1) / 2 - dividerS;
                 smallL = (dividerS - 1) >= 0 ? smaller[dividerS - 1] : int.MinValue;
                 smallR = (dividerS < smaller.Length) ? smaller[dividerS] : int.MaxValue;
@@ -82,11 +85,11 @@ namespace _4._Median_of_Two_Sorted_Arrays
                 largeR = (dividerL<largeer.Length)? largeer[dividerL]:int.MaxValue;
                 if (smallL > largeR)
                 {
-                    dividerS--;
+                    end = dividerS-1;
                 }
                 if(largeL > smallR)
                 {
-                    dividerS++;
+                    start = dividerS+1;
                 }
 
             } while (!(smallL <= largeR && largeL <= smallR));
@@ -105,7 +108,7 @@ namespace _4._Median_of_Two_Sorted_Arrays
         static void Main(string[] args)
         {
             Solution solution = new Solution();
-            Console.WriteLine(solution.FindMedianSortedArrays(new int[] { 101 }, new int[] { 100 }));
+            Console.WriteLine(solution.FindMedianSortedArrays(new int[] { 1,3 }, new int[] { 2 }));
         }
     }
 }
