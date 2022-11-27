@@ -53,7 +53,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Median of Two Sorted Arr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10. Regular Expression Matching", "10. Regular Expression Matching\10. Regular Expression Matching.csproj", "{18FC811D-2B90-4195-AA93-F919F6DCC901}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Longest Palindromic Substring", "5. Longest Palindromic Substring\5. Longest Palindromic Substring.csproj", "{29AC3E79-BA06-4E2D-864D-16DDE2B38749}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. Longest Palindromic Substring", "5. Longest Palindromic Substring\5. Longest Palindromic Substring.csproj", "{29AC3E79-BA06-4E2D-864D-16DDE2B38749}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15. 3Sum", "15. 3Sum\15. 3Sum.csproj", "{77213A65-D8A9-4BF3-9772-71DFC1C63E41}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +167,10 @@ Global
 		{29AC3E79-BA06-4E2D-864D-16DDE2B38749}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29AC3E79-BA06-4E2D-864D-16DDE2B38749}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29AC3E79-BA06-4E2D-864D-16DDE2B38749}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77213A65-D8A9-4BF3-9772-71DFC1C63E41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77213A65-D8A9-4BF3-9772-71DFC1C63E41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77213A65-D8A9-4BF3-9772-71DFC1C63E41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77213A65-D8A9-4BF3-9772-71DFC1C63E41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
