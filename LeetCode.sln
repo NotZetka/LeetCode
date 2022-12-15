@@ -69,9 +69,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "19. Remove Nth Node From En
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "22. Generate Parentheses", "22. Generate Parentheses\22. Generate Parentheses.csproj", "{9E1061D8-2299-4CBA-A7A9-3741574C5436}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23. Merge k Sorted Lists", "23. Merge k Sorted Lists\23. Merge k Sorted Lists.csproj", "{47A8283C-FB88-46F1-AF66-5910B8D05C11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23. Merge k Sorted Lists", "23. Merge k Sorted Lists\23. Merge k Sorted Lists.csproj", "{47A8283C-FB88-46F1-AF66-5910B8D05C11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24. Swap Nodes in Pairs", "24. Swap Nodes in Pairs\24. Swap Nodes in Pairs.csproj", "{7794CDEC-8C1D-42AD-B42F-8DBF817D1905}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "24. Swap Nodes in Pairs", "24. Swap Nodes in Pairs\24. Swap Nodes in Pairs.csproj", "{7794CDEC-8C1D-42AD-B42F-8DBF817D1905}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25. Reverse Nodes in k-Group", "25. Reverse Nodes in k-Group\25. Reverse Nodes in k-Group.csproj", "{AB5F5921-EDA9-4DBA-9A39-DC49CB687E93}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -219,6 +221,10 @@ Global
 		{7794CDEC-8C1D-42AD-B42F-8DBF817D1905}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7794CDEC-8C1D-42AD-B42F-8DBF817D1905}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7794CDEC-8C1D-42AD-B42F-8DBF817D1905}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB5F5921-EDA9-4DBA-9A39-DC49CB687E93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB5F5921-EDA9-4DBA-9A39-DC49CB687E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB5F5921-EDA9-4DBA-9A39-DC49CB687E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB5F5921-EDA9-4DBA-9A39-DC49CB687E93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
