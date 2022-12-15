@@ -17,6 +17,7 @@ namespace _25._Reverse_Nodes_in_k_Group
     {
         public ListNode ReverseKGroup(ListNode head, int k)
         {
+            if (k <= 1) { return head; }
             ListNode result = null;
             ListNode resultTail = null;
             ListNode save;
@@ -27,7 +28,8 @@ namespace _25._Reverse_Nodes_in_k_Group
                 save = head;
                 counter = 0;
 
-                while(counter < k && head!=null)
+                previous = head;
+                while (counter < k && head!=null)
                 {
                     previous = head;
                     counter++;
@@ -36,9 +38,6 @@ namespace _25._Reverse_Nodes_in_k_Group
                 if (counter == k)
                 {
                     previous.next = null;
-                    var temp = head.next;
-                    head.next = null;
-                    head = temp;
                     if(result == null)
                     {
                         result = Reverse(save);
@@ -87,7 +86,7 @@ namespace _25._Reverse_Nodes_in_k_Group
         {
             Solution solution = new Solution();
             ListNode head = new(1, new(2, new(3,new(4,new(5,new(6,new(7)))))));
-            var result = solution.ReverseKGroup(head,2);
+            var result = solution.ReverseKGroup(head,3);
             Console.WriteLine(result.val);
         }
     }
