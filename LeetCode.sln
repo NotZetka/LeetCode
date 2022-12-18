@@ -73,7 +73,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23. Merge k Sorted Lists", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "24. Swap Nodes in Pairs", "24. Swap Nodes in Pairs\24. Swap Nodes in Pairs.csproj", "{7794CDEC-8C1D-42AD-B42F-8DBF817D1905}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25. Reverse Nodes in k-Group", "25. Reverse Nodes in k-Group\25. Reverse Nodes in k-Group.csproj", "{AB5F5921-EDA9-4DBA-9A39-DC49CB687E93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "25. Reverse Nodes in k-Group", "25. Reverse Nodes in k-Group\25. Reverse Nodes in k-Group.csproj", "{AB5F5921-EDA9-4DBA-9A39-DC49CB687E93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28. Find the Index of the First Occurrence in a String", "28. Find the Index of the First Occurrence in a String\28. Find the Index of the First Occurrence in a String.csproj", "{DC1941BD-1057-4E49-86F4-56AF13A77ACE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -225,6 +227,10 @@ Global
 		{AB5F5921-EDA9-4DBA-9A39-DC49CB687E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB5F5921-EDA9-4DBA-9A39-DC49CB687E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB5F5921-EDA9-4DBA-9A39-DC49CB687E93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC1941BD-1057-4E49-86F4-56AF13A77ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC1941BD-1057-4E49-86F4-56AF13A77ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC1941BD-1057-4E49-86F4-56AF13A77ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC1941BD-1057-4E49-86F4-56AF13A77ACE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
