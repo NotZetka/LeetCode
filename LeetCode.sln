@@ -77,6 +77,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "25. Reverse Nodes in k-Grou
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28. Find the Index of the First Occurrence in a String", "28. Find the Index of the First Occurrence in a String\28. Find the Index of the First Occurrence in a String.csproj", "{DC1941BD-1057-4E49-86F4-56AF13A77ACE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30. Substring with Concatenation of All Words", "30. Substring with Concatenation of All Words\30. Substring with Concatenation of All Words.csproj", "{86598983-503C-42C3-AE32-C651E0764AB3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -231,6 +233,10 @@ Global
 		{DC1941BD-1057-4E49-86F4-56AF13A77ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC1941BD-1057-4E49-86F4-56AF13A77ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC1941BD-1057-4E49-86F4-56AF13A77ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86598983-503C-42C3-AE32-C651E0764AB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86598983-503C-42C3-AE32-C651E0764AB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86598983-503C-42C3-AE32-C651E0764AB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86598983-503C-42C3-AE32-C651E0764AB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
