@@ -85,6 +85,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "32. Longest Valid Parenthes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33. Search in Rotated Sorted Array", "33. Search in Rotated Sorted Array\33. Search in Rotated Sorted Array.csproj", "{3B3FFC9B-8470-4BC5-9B5E-762E02C0A644}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34. Find First and Last Position of Element in Sorted Array", "34. Find First and Last Position of Element in Sorted Array\34. Find First and Last Position of Element in Sorted Array.csproj", "{78AB6EA1-BF6D-43A4-BE89-A66A0A13ECA8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -255,6 +257,10 @@ Global
 		{3B3FFC9B-8470-4BC5-9B5E-762E02C0A644}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B3FFC9B-8470-4BC5-9B5E-762E02C0A644}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B3FFC9B-8470-4BC5-9B5E-762E02C0A644}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78AB6EA1-BF6D-43A4-BE89-A66A0A13ECA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78AB6EA1-BF6D-43A4-BE89-A66A0A13ECA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78AB6EA1-BF6D-43A4-BE89-A66A0A13ECA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78AB6EA1-BF6D-43A4-BE89-A66A0A13ECA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
