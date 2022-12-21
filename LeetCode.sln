@@ -87,6 +87,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33. Search in Rotated Sorte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34. Find First and Last Position of Element in Sorted Array", "34. Find First and Last Position of Element in Sorted Array\34. Find First and Last Position of Element in Sorted Array.csproj", "{78AB6EA1-BF6D-43A4-BE89-A66A0A13ECA8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "36. Valid Sudoku", "36. Valid Sudoku\36. Valid Sudoku.csproj", "{1A9F9399-E4A6-40FB-AF15-1FA4FCB3FDEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -261,6 +263,10 @@ Global
 		{78AB6EA1-BF6D-43A4-BE89-A66A0A13ECA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78AB6EA1-BF6D-43A4-BE89-A66A0A13ECA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78AB6EA1-BF6D-43A4-BE89-A66A0A13ECA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A9F9399-E4A6-40FB-AF15-1FA4FCB3FDEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A9F9399-E4A6-40FB-AF15-1FA4FCB3FDEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A9F9399-E4A6-40FB-AF15-1FA4FCB3FDEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A9F9399-E4A6-40FB-AF15-1FA4FCB3FDEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
