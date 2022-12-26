@@ -83,11 +83,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "31. Next Permutation", "31.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "32. Longest Valid Parentheses", "32. Longest Valid Parentheses\32. Longest Valid Parentheses.csproj", "{F0C35DBD-F70F-450A-AD62-B0F609E91A5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33. Search in Rotated Sorted Array", "33. Search in Rotated Sorted Array\33. Search in Rotated Sorted Array.csproj", "{3B3FFC9B-8470-4BC5-9B5E-762E02C0A644}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "33. Search in Rotated Sorted Array", "33. Search in Rotated Sorted Array\33. Search in Rotated Sorted Array.csproj", "{3B3FFC9B-8470-4BC5-9B5E-762E02C0A644}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34. Find First and Last Position of Element in Sorted Array", "34. Find First and Last Position of Element in Sorted Array\34. Find First and Last Position of Element in Sorted Array.csproj", "{78AB6EA1-BF6D-43A4-BE89-A66A0A13ECA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "34. Find First and Last Position of Element in Sorted Array", "34. Find First and Last Position of Element in Sorted Array\34. Find First and Last Position of Element in Sorted Array.csproj", "{78AB6EA1-BF6D-43A4-BE89-A66A0A13ECA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "36. Valid Sudoku", "36. Valid Sudoku\36. Valid Sudoku.csproj", "{1A9F9399-E4A6-40FB-AF15-1FA4FCB3FDEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "36. Valid Sudoku", "36. Valid Sudoku\36. Valid Sudoku.csproj", "{1A9F9399-E4A6-40FB-AF15-1FA4FCB3FDEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "37. Sudoku Solver", "37. Sudoku Solver\37. Sudoku Solver.csproj", "{38E9852F-36D0-4CA6-B80E-14E149354811}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -267,6 +269,10 @@ Global
 		{1A9F9399-E4A6-40FB-AF15-1FA4FCB3FDEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A9F9399-E4A6-40FB-AF15-1FA4FCB3FDEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A9F9399-E4A6-40FB-AF15-1FA4FCB3FDEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38E9852F-36D0-4CA6-B80E-14E149354811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38E9852F-36D0-4CA6-B80E-14E149354811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38E9852F-36D0-4CA6-B80E-14E149354811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38E9852F-36D0-4CA6-B80E-14E149354811}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
