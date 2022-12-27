@@ -93,6 +93,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "37. Sudoku Solver", "37. Su
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "38. Count and Say", "38. Count and Say\38. Count and Say.csproj", "{1ADB506F-3EF6-48D4-9F33-12DEBF2D992C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "39. Combination Sum", "39. Combination Sum\39. Combination Sum.csproj", "{C432118B-427B-4619-AD5F-512485C35E5C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -279,6 +281,10 @@ Global
 		{1ADB506F-3EF6-48D4-9F33-12DEBF2D992C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1ADB506F-3EF6-48D4-9F33-12DEBF2D992C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1ADB506F-3EF6-48D4-9F33-12DEBF2D992C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C432118B-427B-4619-AD5F-512485C35E5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C432118B-427B-4619-AD5F-512485C35E5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C432118B-427B-4619-AD5F-512485C35E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C432118B-427B-4619-AD5F-512485C35E5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
