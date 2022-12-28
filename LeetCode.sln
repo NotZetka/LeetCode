@@ -89,13 +89,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "34. Find First and Last Pos
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "36. Valid Sudoku", "36. Valid Sudoku\36. Valid Sudoku.csproj", "{1A9F9399-E4A6-40FB-AF15-1FA4FCB3FDEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "37. Sudoku Solver", "37. Sudoku Solver\37. Sudoku Solver.csproj", "{38E9852F-36D0-4CA6-B80E-14E149354811}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "37. Sudoku Solver", "37. Sudoku Solver\37. Sudoku Solver.csproj", "{38E9852F-36D0-4CA6-B80E-14E149354811}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "38. Count and Say", "38. Count and Say\38. Count and Say.csproj", "{1ADB506F-3EF6-48D4-9F33-12DEBF2D992C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "38. Count and Say", "38. Count and Say\38. Count and Say.csproj", "{1ADB506F-3EF6-48D4-9F33-12DEBF2D992C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "39. Combination Sum", "39. Combination Sum\39. Combination Sum.csproj", "{C432118B-427B-4619-AD5F-512485C35E5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "39. Combination Sum", "39. Combination Sum\39. Combination Sum.csproj", "{C432118B-427B-4619-AD5F-512485C35E5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40. Combination Sum II", "40. Combination Sum II\40. Combination Sum II.csproj", "{E3463FA0-15C2-4861-93CE-DE6A055B7E91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "40. Combination Sum II", "40. Combination Sum II\40. Combination Sum II.csproj", "{E3463FA0-15C2-4861-93CE-DE6A055B7E91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "41. First Missing Positive", "41. First Missing Positive\41. First Missing Positive.csproj", "{DFC8BB97-D8F9-4DCF-8AB9-7E57F6F148EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -291,6 +293,10 @@ Global
 		{E3463FA0-15C2-4861-93CE-DE6A055B7E91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3463FA0-15C2-4861-93CE-DE6A055B7E91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3463FA0-15C2-4861-93CE-DE6A055B7E91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFC8BB97-D8F9-4DCF-8AB9-7E57F6F148EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC8BB97-D8F9-4DCF-8AB9-7E57F6F148EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC8BB97-D8F9-4DCF-8AB9-7E57F6F148EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC8BB97-D8F9-4DCF-8AB9-7E57F6F148EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
