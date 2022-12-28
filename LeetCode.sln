@@ -97,9 +97,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "39. Combination Sum", "39. 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "40. Combination Sum II", "40. Combination Sum II\40. Combination Sum II.csproj", "{E3463FA0-15C2-4861-93CE-DE6A055B7E91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "41. First Missing Positive", "41. First Missing Positive\41. First Missing Positive.csproj", "{DFC8BB97-D8F9-4DCF-8AB9-7E57F6F148EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "41. First Missing Positive", "41. First Missing Positive\41. First Missing Positive.csproj", "{DFC8BB97-D8F9-4DCF-8AB9-7E57F6F148EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "42. Trapping Rain Water", "42. Trapping Rain Water\42. Trapping Rain Water.csproj", "{22169B4D-8BE0-43DE-893A-876B40D92324}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "42. Trapping Rain Water", "42. Trapping Rain Water\42. Trapping Rain Water.csproj", "{22169B4D-8BE0-43DE-893A-876B40D92324}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "43. Multiply Strings", "43. Multiply Strings\43. Multiply Strings.csproj", "{5A7F2625-2642-413D-89EA-71E96F66BCB7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -303,6 +305,10 @@ Global
 		{22169B4D-8BE0-43DE-893A-876B40D92324}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22169B4D-8BE0-43DE-893A-876B40D92324}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22169B4D-8BE0-43DE-893A-876B40D92324}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A7F2625-2642-413D-89EA-71E96F66BCB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A7F2625-2642-413D-89EA-71E96F66BCB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A7F2625-2642-413D-89EA-71E96F66BCB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A7F2625-2642-413D-89EA-71E96F66BCB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
