@@ -107,6 +107,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "44. Wildcard Matching", "44
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "45. Jump Game II", "45. Jump Game II\45. Jump Game II.csproj", "{CB5D5E2C-62CC-45D0-A6D2-E865FDE3118D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "46. Permutations", "46. Permutations\46. Permutations.csproj", "{7904C03A-B5B8-4AB8-94F4-9450E3B35FC4}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "47. Permutations II", "47. Permutations II\47. Permutations II.csproj", "{89497E70-AC74-4E52-9E29-8A9526603633}"
 EndProject
 Global
@@ -323,10 +325,6 @@ Global
 		{CB5D5E2C-62CC-45D0-A6D2-E865FDE3118D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CB5D5E2C-62CC-45D0-A6D2-E865FDE3118D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CB5D5E2C-62CC-45D0-A6D2-E865FDE3118D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{89497E70-AC74-4E52-9E29-8A9526603633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{89497E70-AC74-4E52-9E29-8A9526603633}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{89497E70-AC74-4E52-9E29-8A9526603633}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{89497E70-AC74-4E52-9E29-8A9526603633}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
