@@ -111,7 +111,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "46. Permutations", "46. Per
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "47. Permutations II", "47. Permutations II\47. Permutations II.csproj", "{89497E70-AC74-4E52-9E29-8A9526603633}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "48. Rotate Image", "48. Rotate Image\48. Rotate Image.csproj", "{BFEBE173-E02E-441B-B252-6AFE0A4D0228}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "48. Rotate Image", "48. Rotate Image\48. Rotate Image.csproj", "{BFEBE173-E02E-441B-B252-6AFE0A4D0228}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "49. Group Anagrams", "49. Group Anagrams\49. Group Anagrams.csproj", "{172C2557-923C-41A2-8D9B-6B435B763159}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -339,6 +341,10 @@ Global
 		{BFEBE173-E02E-441B-B252-6AFE0A4D0228}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFEBE173-E02E-441B-B252-6AFE0A4D0228}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFEBE173-E02E-441B-B252-6AFE0A4D0228}.Release|Any CPU.Build.0 = Release|Any CPU
+		{172C2557-923C-41A2-8D9B-6B435B763159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{172C2557-923C-41A2-8D9B-6B435B763159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{172C2557-923C-41A2-8D9B-6B435B763159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{172C2557-923C-41A2-8D9B-6B435B763159}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
